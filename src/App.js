@@ -8,7 +8,7 @@ function App() {
       <body className='App-header'>
 
         <br />
-        <div style={{marginTop: "5%"}}>
+        <div style={{ marginTop: "5%" }}>
           <img src='Zak.JPG' className='profilePhoto' ></img>
           <h1>Zak Lipman</h1>
         </div>
@@ -24,8 +24,8 @@ function App() {
         <div className='aboutMe'>
           <h2><u>About me</u></h2>
           <p style={{ marginLeft: "10%", marginRight: "10%" }}>
-          I am a passionate Computer Science graduate who enjoys coding and problem solving.<br/> <br/>
-I take interest in tech in other forms too, being a big apple fanboy and keeping up to date with the latest tech news. <br/><br/>Other than tech, I enjoy my alone time where I can recharge being an introverted personality type however I still very much enjoy being with my friends and some good social interaction.</p>
+            I am a passionate Computer Science graduate who enjoys coding and problem solving.<br /> <br />
+            I take interest in tech in other forms too, being a big apple fanboy and keeping up to date with the latest tech news. <br /><br />Other than tech, I enjoy my alone time where I can recharge being an introverted personality type however I still very much enjoy being with my friends and some good social interaction.</p>
         </div>
         <br />
 
