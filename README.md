@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed Version
 https://first-react-app-five-beta.vercel.app
 
+The intention was for the site to be viewed on a mobile phone screen as it looks best this way but it will work on all displays
+
 ## Available Scripts
 
 In the project directory, you can run:
